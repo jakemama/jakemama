@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakemama
 - 👀 I’m interested in front-end, node, computer science
-- 🌱 I’m currently learning node, js
+<!-- - 🌱 I’m currently learning node, js -->
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me : jake_ma@yeah.net
 
